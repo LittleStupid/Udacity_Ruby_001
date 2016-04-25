@@ -1,0 +1,4 @@
+The most challenges thing is not familiar with syntax of Ruby, and little knowledge with some advance language concept such as meta programming.
+
+I am a programmer.I think the online course is a better way to study language, because it is interactive, and can save your time in total.
+The best way is learn by doing, and it will be better if you have a teacher sit next to you and correct you anytime.
